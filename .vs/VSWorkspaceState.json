@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\auth",
+    "\\src\\app\\recipes",
+    "\\src\\app\\Shared",
+    "\\src\\app\\Shared\\Spinners",
+    "\\src\\app\\Shared\\Spinners\\spinnerfirst"
+  ],
+  "SelectedNode": "\\src\\app\\auth\\auth-gard.ts",
+  "PreviewInSolutionExplorer": false
+}
